@@ -1,0 +1,2 @@
+@interface SNAccountViewController : UIViewController
+@end
